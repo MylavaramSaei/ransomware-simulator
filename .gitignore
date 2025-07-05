@@ -1,0 +1,4 @@
+venv/
+*.locked
+key.bin
+__pycache__/
